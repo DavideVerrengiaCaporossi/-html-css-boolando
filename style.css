@@ -67,7 +67,13 @@ padding: 0px ;
 .prezzo-scontato {
     color: red;
     font-size: 15px;
+
 }
 .prezzo-pieno {
     font-size: 15px;
+    text-decoration: line-through;
+}
+.prezzo-base{
+    font-size: 15px;
+    color: red;
 }
