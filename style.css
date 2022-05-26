@@ -4,10 +4,7 @@
     padding: 0;
 }
 
-h1{
-    margin: 20px 0;
 
-}
 
 
 
@@ -26,7 +23,7 @@ padding: 0px ;
 /*larghezza col*/
 .col{
     width: calc(100% / 3 );
-    padding: 5px;
+    padding: 15px;
 }
 /*serve a lasciare un po di spazio tra un blocco e l' altro*/
 .prduct {
@@ -36,7 +33,7 @@ padding: 0px ;
 .etichetta{
     position: absolute;
     left: 0;
-    bottom: 35px;
+    bottom: 45px;
     
 }
 .verde{
@@ -47,4 +44,9 @@ padding: 0px ;
 }
 .prduct img {
     width: 100% ;
+}
+.etichetta-cuore {
+    position: absolute;
+    right: 0;
+    top: 20px;
 }
