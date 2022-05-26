@@ -52,8 +52,22 @@ padding: 0px ;
     background-color: white;
     width: 15%;
     height: 10%;
-    
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .cuore {
+    font-size: 30px;
    
+}
+
+.cuore:hover{
+    color: red;
+}
+.prezzo-scontato {
+    color: red;
+    font-size: 15px;
+}
+.prezzo-pieno {
+    font-size: 15px;
 }
